@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/elasticsearch-logstash-kibana-elk-3-learn-kibana-video/9781788991193)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # ElasticSearch, LogStash, Kibana ELK #3 - Learn Kibana [Video]
 This is the code repository for ElasticSearch, LogStash, Kibana ELK #3 - Learn Kibana [Video](https://www.packtpub.com/big-data-and-business-intelligence/elasticsearch-logstash-kibana-elk-3-learn-kibana-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
