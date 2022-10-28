@@ -29,7 +29,3 @@ N/A
 * [ElasticSearch, LogStash, Kibana ELK #1 - Learn ElasticSearch  [Video]](https://www.packtpub.com/networking-and-servers/elasticsearch-logstash-kibana-elk-1-learn-elasticsearch-video)
 
 * [Deep Learning and Neural Networks using Python - Keras: The Complete Beginners Guide  [Video]](https://www.packtpub.com/application-development/deep-learning-and-neural-networks-using-python-keras-complete-beginners-guid)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788991193">https://packt.link/free-ebook/9781788991193 </a> </p>
